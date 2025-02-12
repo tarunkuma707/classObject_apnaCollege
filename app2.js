@@ -4,7 +4,7 @@ try{
     console.log("a =",a);
     console.log("b =",b);
     console.log("a + b=",a+b);
-    console.log("a + b=",a+c);/// Error Here
+    console.log("a + b=",a+c);/// Error Here Try Catch here to solve the problem
     console.log("a + b 1=",a+b);
     console.log("a + b=",a+b);
     console.log("a + b=",a+b);

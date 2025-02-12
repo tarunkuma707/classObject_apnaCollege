@@ -107,8 +107,6 @@ class Admin extends User{
         dataInfo    =   "some new data";
     }
 }
-
 let student1 = new User("abc","abc@email.com");
 let student2 = new User("xyx","aman@email.com");
-
 let admin1  =   new Admin("admin","admin@admin.com");
